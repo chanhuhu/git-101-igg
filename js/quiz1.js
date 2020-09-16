@@ -1,5 +1,5 @@
 const person = {
-  fname: "aphimuk",
+  fname: "Aphimuk",
   lname: "Yimsukpaitoon",
   age: 20,
   nickname: "korn",
