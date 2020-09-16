@@ -1,3 +1,3 @@
 # git-101-igg
 
-## Aphimuk Y
+## Aphimuk Y + Nitipat L
